@@ -5,6 +5,42 @@
     
     <url>
     
+      <loc>https://Rmomal.github.io/publication/bla/</loc>
+      <lastmod>2018-05-06T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://Rmomal.github.io/talks/exemple/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://Rmomal.github.io/publication/exemple/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://Rmomal.github.io/talks/chaire-mmb/exemple/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://Rmomal.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
@@ -23,7 +59,7 @@
     
     <url>
     
-      <loc>https://Rmomal.github.io/talk/</loc>
+      <loc>https://Rmomal.github.io/talks/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -32,8 +68,17 @@
     
     <url>
     
+      <loc>https://Rmomal.github.io/project/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://Rmomal.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+      <lastmod>2018-05-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -43,6 +88,26 @@
     <url>
     
       <loc>https://Rmomal.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://Rmomal.github.io/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://Rmomal.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -61,6 +126,7 @@
     <url>
     
       <loc>https://Rmomal.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

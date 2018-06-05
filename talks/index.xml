@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Academic</title>
-    <link>https://Rmomal.github.io/publication/</link>
-    <description>Recent content in Publications on Academic</description>
+    <title>Recent &amp; Upcoming Talks on Academic</title>
+    <link>https://Rmomal.github.io/talks/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://Rmomal.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Rmomal.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Latent Tree based Inference of Ecological Network using the Poisson Log-Normal Model</title>
-      <link>https://Rmomal.github.io/publication/bla/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0200</pubDate>
+      <title>Example Talk</title>
+      <link>https://Rmomal.github.io/talks/exemple/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://Rmomal.github.io/publication/bla/</guid>
+      <guid>https://Rmomal.github.io/talks/exemple/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Example bla</title>
-      <link>https://Rmomal.github.io/publication/exemple/</link>
+      <link>https://Rmomal.github.io/talks/chaire-mmb/exemple/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://Rmomal.github.io/publication/exemple/</guid>
+      <guid>https://Rmomal.github.io/talks/chaire-mmb/exemple/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
