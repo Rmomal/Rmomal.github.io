@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on R. Momal</title>
+    <link>https://Rmomal.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on R. Momal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://Rmomal.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Livestock genome annotation: transcriptome and chromatin structure profiling in cattle, goat, chicken and pig.</title>
+      <link>https://Rmomal.github.io/publication/bla/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/publication/bla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

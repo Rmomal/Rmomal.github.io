@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ngb on R. Momal</title>
+    <link>https://Rmomal.github.io/tags/ngb/</link>
+    <description>Recent content in Ngb on R. Momal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://Rmomal.github.io/tags/ngb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Next Generation Biomonitoring</title>
+      <link>https://Rmomal.github.io/project/ngb/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/project/ngb/</guid>
+      <description>Please learn more at next-genbiomonitoring.org.</description>
+    </item>
+    
+  </channel>
+</rss>

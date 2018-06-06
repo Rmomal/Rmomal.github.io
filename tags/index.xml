@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
+    <title>Tags on R. Momal</title>
     <link>https://Rmomal.github.io/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <description>Recent content in Tags on R. Momal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,11 +13,38 @@
     
     
     <item>
-      <title>Deep-learning</title>
-      <link>https://Rmomal.github.io/tags/deep-learning/</link>
+      <title>Encode</title>
+      <link>https://Rmomal.github.io/tags/encode/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://Rmomal.github.io/tags/deep-learning/</guid>
+      <guid>https://Rmomal.github.io/tags/encode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional annotation</title>
+      <link>https://Rmomal.github.io/tags/functional-annotation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/tags/functional-annotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic</title>
+      <link>https://Rmomal.github.io/tags/genomic/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/tags/genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ngb</title>
+      <link>https://Rmomal.github.io/tags/ngb/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/tags/ngb/</guid>
       <description></description>
     </item>
     

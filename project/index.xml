@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Academic</title>
+    <title>Projects on R. Momal</title>
     <link>https://Rmomal.github.io/project/</link>
-    <description>Recent content in Projects on Academic</description>
+    <description>Recent content in Projects on R. Momal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,12 +13,21 @@
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://Rmomal.github.io/project/deep-learning/</link>
+      <title>FR-AgENCODE</title>
+      <link>https://Rmomal.github.io/project/fr-agencode/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://Rmomal.github.io/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <guid>https://Rmomal.github.io/project/fr-agencode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Generation Biomonitoring</title>
+      <link>https://Rmomal.github.io/project/ngb/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/project/ngb/</guid>
+      <description>Please learn more at next-genbiomonitoring.org.</description>
     </item>
     
   </channel>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encode on R. Momal</title>
+    <link>https://Rmomal.github.io/tags/encode/</link>
+    <description>Recent content in Encode on R. Momal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://Rmomal.github.io/tags/encode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FR-AgENCODE</title>
+      <link>https://Rmomal.github.io/project/fr-agencode/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/project/fr-agencode/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
