@@ -7,8 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 20 May 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Labex Mathématiques Hadamard</title>
+      <link>https://Rmomal.github.io/project/lmh/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/project/lmh/</guid>
+      <description>&lt;p&gt;Please learn more at &lt;a href=&#34;http://next-genbiomonitoring.org/&#34; target=&#34;_blank&#34;&gt;next-genbiomonitoring.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tree-based Reconstruction of Ecological Network from Abundance Data</title>
+      <link>https://Rmomal.github.io/publication/emtree/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/publication/emtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Tree based Inference of Ecological Network using the Poisson Log-Normal Model</title>
+      <link>https://Rmomal.github.io/publication/jobimproceedings/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/publication/jobimproceedings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Livestock genome annotation: transcriptome and chromatin structure profiling in cattle, goat, chicken and pig</title>
@@ -17,26 +45,6 @@
       
       <guid>https://Rmomal.github.io/publication/fr-agencode/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Inférence de réseaux écologiques à partir d’arbres latents dans un modèle Poisson Log-Normal</title>
-      <link>https://Rmomal.github.io/talk/mmb/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://Rmomal.github.io/talk/mmb/</guid>
-      <description>&lt;p&gt;Summer research school of the &lt;em&gt;Chaire MMB&lt;/em&gt;, 2018 edition.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Latent Tree based Inference of Ecological Network using the Poisson Log-Normal Model</title>
-      <link>https://Rmomal.github.io/talk/jobim/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://Rmomal.github.io/talk/jobim/</guid>
-      <description>&lt;p&gt;We are please to participate to the 2018 edition of JOBIM, which will be held in Marseille 3th-6th July.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -56,6 +64,62 @@
       <guid>https://Rmomal.github.io/project/ngb/</guid>
       <description>&lt;p&gt;Please learn more at &lt;a href=&#34;http://next-genbiomonitoring.org/&#34; target=&#34;_blank&#34;&gt;next-genbiomonitoring.org&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>COSTNET Early Career Training Event - Munich 2019</title>
+      <link>https://Rmomal.github.io/talk/costnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rmomal.github.io/talk/costnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaire Modélisation Mathématique et Biodiversité - MMB Chair, Aussois 2018</title>
+      <link>https://Rmomal.github.io/talk/mmb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rmomal.github.io/talk/mmb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JOBIM</title>
+      <link>https://Rmomal.github.io/talk/jobim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rmomal.github.io/talk/jobim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netbio - Montpellier 2018</title>
+      <link>https://Rmomal.github.io/talk/netbio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rmomal.github.io/talk/netbio/</guid>
+      <description>&lt;p&gt;Where ecology and biology meets statistics and network theory. Thanks for all these rich exchanges.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>State of the R</title>
+      <link>https://Rmomal.github.io/talk/sotr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rmomal.github.io/talk/sotr/</guid>
+      <description>&lt;p&gt;Teamwork with &lt;a href=&#34;https://marie-perrotdockes.github.io&#34; target=&#34;_blank&#34;&gt;Marie Perrot-Dockes&lt;/a&gt;. This is an overview of some fancy new features of the ggplot world! The presentation begins with an introduction to &lt;code&gt;ggplot&lt;/code&gt;, then presents use examples of &lt;code&gt;gganimate&lt;/code&gt;, &lt;code&gt;ggraph&lt;/code&gt; and &lt;code&gt;tydigraph&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statisticsfor Post Genomic Data (SMPGD) - Barcelona 2019</title>
+      <link>https://Rmomal.github.io/talk/smpgd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rmomal.github.io/talk/smpgd/</guid>
+      <description></description>
     </item>
     
   </channel>

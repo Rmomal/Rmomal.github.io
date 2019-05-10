@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://Rmomal.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tree-based Reconstruction of Ecological Network from Abundance Data</title>
+      <link>https://Rmomal.github.io/publication/emtree/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/publication/emtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Tree based Inference of Ecological Network using the Poisson Log-Normal Model</title>
+      <link>https://Rmomal.github.io/publication/jobimproceedings/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/publication/jobimproceedings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Livestock genome annotation: transcriptome and chromatin structure profiling in cattle, goat, chicken and pig</title>
