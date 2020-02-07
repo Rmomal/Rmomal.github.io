@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on R. Momal</title>
+    <link>https://Rmomal.github.io/tags/r/</link>
+    <description>Recent content in R on R. Momal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://Rmomal.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>State Of The R</title>
+      <link>https://Rmomal.github.io/project/sotr/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/project/sotr/</guid>
+      <description>Please learn more at next-genbiomonitoring.org.</description>
+    </item>
+    
+  </channel>
+</rss>

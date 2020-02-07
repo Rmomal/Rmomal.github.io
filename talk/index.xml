@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on R. Momal</title>
+    <title>Selected talks on R. Momal</title>
     <link>https://Rmomal.github.io/talk/</link>
-    <description>Recent content in Talks on R. Momal</description>
+    <description>Recent content in Selected talks on R. Momal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -22,12 +22,12 @@
     </item>
     
     <item>
-      <title>Chaire Modélisation Mathématique et Biodiversité - MMB Chair, Aussois 2018</title>
-      <link>https://Rmomal.github.io/talk/mmb/</link>
+      <title>Fancy graphs using R</title>
+      <link>https://Rmomal.github.io/talk/sotr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Rmomal.github.io/talk/mmb/</guid>
-      <description></description>
+      <guid>https://Rmomal.github.io/talk/sotr/</guid>
+      <description>Teamwork with Marie Perrot-Dockes. This is an overview of some fancy new features of the ggplot world! The presentation begins with an introduction to ggplot, then presents use examples of gganimate, ggraph and tydigraph.</description>
     </item>
     
     <item>
@@ -49,20 +49,11 @@
     </item>
     
     <item>
-      <title>State of the R</title>
-      <link>https://Rmomal.github.io/talk/sotr/</link>
+      <title>Women in Machine Learning and Data Science</title>
+      <link>https://Rmomal.github.io/talk/wimlds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Rmomal.github.io/talk/sotr/</guid>
-      <description>Teamwork with Marie Perrot-Dockes. This is an overview of some fancy new features of the ggplot world! The presentation begins with an introduction to ggplot, then presents use examples of gganimate, ggraph and tydigraph.</description>
-    </item>
-    
-    <item>
-      <title>Statisticsfor Post Genomic Data (SMPGD) - Barcelona 2019</title>
-      <link>https://Rmomal.github.io/talk/smpgd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Rmomal.github.io/talk/smpgd/</guid>
+      <guid>https://Rmomal.github.io/talk/wimlds/</guid>
       <description></description>
     </item>
     

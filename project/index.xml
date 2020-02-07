@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://Rmomal.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EcoStat</title>
+      <link>https://Rmomal.github.io/project/ecostat/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/project/ecostat/</guid>
+      <description>Please learn more about this exciting research group at https://sites.google.com/site/gdrecostat/.</description>
+    </item>
+    
+    <item>
+      <title>State Of The R</title>
+      <link>https://Rmomal.github.io/project/sotr/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/project/sotr/</guid>
+      <description>Please learn more at next-genbiomonitoring.org.</description>
+    </item>
     
     <item>
       <title>Labex Mathématiques Hadamard</title>
@@ -22,12 +40,12 @@
     </item>
     
     <item>
-      <title>FR-AgENCODE</title>
-      <link>https://Rmomal.github.io/project/fr-agencode/</link>
+      <title>House for Science Initiation and Awareness</title>
+      <link>https://Rmomal.github.io/project/miss/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://Rmomal.github.io/project/fr-agencode/</guid>
-      <description></description>
+      <guid>https://Rmomal.github.io/project/miss/</guid>
+      <description>Please learn more at next-genbiomonitoring.org.</description>
     </item>
     
     <item>

@@ -11,6 +11,44 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>EcoStat</title>
+      <link>https://Rmomal.github.io/project/ecostat/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/project/ecostat/</guid>
+      <description>&lt;p&gt;Please learn more about this exciting research group at &lt;a href=&#34;https://sites.google.com/site/gdrecostat/&#34; target=&#34;_blank&#34;&gt;https://sites.google.com/site/gdrecostat/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>State Of The R</title>
+      <link>https://Rmomal.github.io/project/sotr/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/project/sotr/</guid>
+      <description>&lt;p&gt;Please learn more at &lt;a href=&#34;http://next-genbiomonitoring.org/&#34; target=&#34;_blank&#34;&gt;next-genbiomonitoring.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-species annotation of transcriptome and chromatin structure in domesticated animals.</title>
+      <link>https://Rmomal.github.io/publication/fr-agencode/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/publication/fr-agencode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree-based Inference of Species Interaction Networks from Abundance Data</title>
+      <link>https://Rmomal.github.io/publication/emtree/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/publication/emtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Labex Mathématiques Hadamard</title>
       <link>https://Rmomal.github.io/project/lmh/</link>
       <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
@@ -18,15 +56,6 @@
       <guid>https://Rmomal.github.io/project/lmh/</guid>
       <description>&lt;p&gt;Please learn more at &lt;a href=&#34;http://next-genbiomonitoring.org/&#34; target=&#34;_blank&#34;&gt;next-genbiomonitoring.org&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Tree-based Reconstruction of Ecological Network from Abundance Data</title>
-      <link>https://Rmomal.github.io/publication/emtree/</link>
-      <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://Rmomal.github.io/publication/emtree/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -39,21 +68,13 @@
     </item>
     
     <item>
-      <title>Livestock genome annotation: transcriptome and chromatin structure profiling in cattle, goat, chicken and pig</title>
-      <link>https://Rmomal.github.io/publication/fr-agencode/</link>
-      <pubDate>Fri, 11 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://Rmomal.github.io/publication/fr-agencode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FR-AgENCODE</title>
-      <link>https://Rmomal.github.io/project/fr-agencode/</link>
+      <title>House for Science Initiation and Awareness</title>
+      <link>https://Rmomal.github.io/project/miss/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://Rmomal.github.io/project/fr-agencode/</guid>
-      <description></description>
+      <guid>https://Rmomal.github.io/project/miss/</guid>
+      <description>&lt;p&gt;Please learn more at &lt;a href=&#34;http://next-genbiomonitoring.org/&#34; target=&#34;_blank&#34;&gt;next-genbiomonitoring.org&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -76,12 +97,13 @@
     </item>
     
     <item>
-      <title>Chaire Modélisation Mathématique et Biodiversité - MMB Chair, Aussois 2018</title>
-      <link>https://Rmomal.github.io/talk/mmb/</link>
+      <title>Fancy graphs using R</title>
+      <link>https://Rmomal.github.io/talk/sotr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Rmomal.github.io/talk/mmb/</guid>
-      <description></description>
+      <guid>https://Rmomal.github.io/talk/sotr/</guid>
+      <description>&lt;p&gt;Teamwork with &lt;a href=&#34;https://marie-perrotdockes.github.io&#34; target=&#34;_blank&#34;&gt;Marie Perrot-Dockes&lt;/a&gt;. This is an overview of some fancy new features of the ggplot world! The presentation begins with an introduction to &lt;code&gt;ggplot&lt;/code&gt;, then presents use examples of &lt;code&gt;gganimate&lt;/code&gt;, &lt;code&gt;ggraph&lt;/code&gt; and &lt;code&gt;tydigraph&lt;/code&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -104,21 +126,11 @@
     </item>
     
     <item>
-      <title>State of the R</title>
-      <link>https://Rmomal.github.io/talk/sotr/</link>
+      <title>Women in Machine Learning and Data Science</title>
+      <link>https://Rmomal.github.io/talk/wimlds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Rmomal.github.io/talk/sotr/</guid>
-      <description>&lt;p&gt;Teamwork with &lt;a href=&#34;https://marie-perrotdockes.github.io&#34; target=&#34;_blank&#34;&gt;Marie Perrot-Dockes&lt;/a&gt;. This is an overview of some fancy new features of the ggplot world! The presentation begins with an introduction to &lt;code&gt;ggplot&lt;/code&gt;, then presents use examples of &lt;code&gt;gganimate&lt;/code&gt;, &lt;code&gt;ggraph&lt;/code&gt; and &lt;code&gt;tydigraph&lt;/code&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Statisticsfor Post Genomic Data (SMPGD) - Barcelona 2019</title>
-      <link>https://Rmomal.github.io/talk/smpgd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Rmomal.github.io/talk/smpgd/</guid>
+      <guid>https://Rmomal.github.io/talk/wimlds/</guid>
       <description></description>
     </item>
     

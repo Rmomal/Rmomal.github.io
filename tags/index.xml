@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://Rmomal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coding</title>
+      <link>https://Rmomal.github.io/tags/coding/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecology</title>
+      <link>https://Rmomal.github.io/tags/ecology/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/tags/ecology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LMH</title>
@@ -22,11 +40,29 @@
     </item>
     
     <item>
+      <title>Mediation</title>
+      <link>https://Rmomal.github.io/tags/mediation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/tags/mediation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ngb</title>
       <link>https://Rmomal.github.io/tags/ngb/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://Rmomal.github.io/tags/ngb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://Rmomal.github.io/tags/r/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/tags/r/</guid>
       <description></description>
     </item>
     
