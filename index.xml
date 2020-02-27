@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Tree-based Inference of Species Interaction Networks from Abundance Data</title>
+      <link>https://Rmomal.github.io/publication/emtree/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/publication/emtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EcoStat</title>
       <link>https://Rmomal.github.io/project/ecostat/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
@@ -36,15 +45,6 @@
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0100</pubDate>
       
       <guid>https://Rmomal.github.io/publication/fr-agencode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tree-based Inference of Species Interaction Networks from Abundance Data</title>
-      <link>https://Rmomal.github.io/publication/emtree/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://Rmomal.github.io/publication/emtree/</guid>
       <description></description>
     </item>
     
