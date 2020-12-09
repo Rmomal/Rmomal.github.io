@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected talks on R. Momal</title>
+    <link>https://Rmomal.github.io/thesis/</link>
+    <description>Recent content in Selected talks on R. Momal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://Rmomal.github.io/thesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thesis</title>
+      <link>https://Rmomal.github.io/thesis/thesis/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://Rmomal.github.io/thesis/thesis/</guid>
+      <description>The thesis project I completed a thesis in Applied Mathematics, entitled &amp;ldquo;Network inference from incomplete abundance data&amp;rdquo;. This work was supervised by Stéphane Robin and Christophe Ambroise and realised at the French Mathématiques et Informatique appliquées Lab (MIA-Paris).
+Manuscript Defense presentation</description>
+    </item>
+    
+  </channel>
+</rss>

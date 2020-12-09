@@ -18,8 +18,18 @@
       <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://Rmomal.github.io/home/about/</guid>
-      <description>About me I work under the supervision of Stéphane Robin and Christophe Ambroise at the French Mathématiques et Informatique appliquées Lab (MIA-Paris). Using statistical modelling and dedicated algorithms, we infer species interaction networks in collaboration with ecology and biology experts.
-CV: english version (updated 23/10/2020).</description>
+      <description>About me I work currently as a postdoctoral fellow at MetaGenoPolis, INRAe Jouy-en-Josas, France. A dive into microbial network obtained with shotgun sequencing, in which I will contribute regarding the network robustness, clustering and comparison.
+CV: english version (updated 23/10/2020).
+The thesis project I completed a thesis in Applied Mathematics, entitled &amp;ldquo;Network inference from incomplete abundance data&amp;rdquo;. This work was supervised by Stéphane Robin and Christophe Ambroise and realised at the French Mathématiques et Informatique appliquées Lab (MIA-Paris).</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://Rmomal.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://Rmomal.github.io/home/posts/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -46,15 +56,6 @@ CV: english version (updated 23/10/2020).</description>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://Rmomal.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://Rmomal.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://Rmomal.github.io/home/posts/</guid>
       <description></description>
     </item>
     
